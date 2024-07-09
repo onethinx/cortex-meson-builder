@@ -1,0 +1,25 @@
+{
+  "name": "cortex-meson-builder",
+  "publisher": "Onethinx",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onethinx/cortex-meson-builder.git"
+  },
+  "displayName": "Cortex Meson Builder",
+  "description": "Extension Pack for using Meson build generator on Cortex MCUs",
+  "version": "0.0.4",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ms-vscode.cpptools",
+    "onethinx.cortex-debug",
+    "mrmomo.meson-build",
+    "egomobile.vscode-powertools",
+    "actboy168.tasks"
+  ],
+  "icon": "icon.png"
+}
