@@ -7,7 +7,7 @@
 1. Restart VS Code
 
 Install manually using the command prompt / terminal
-1. Execute `code --install-extension rolfnoot.cortex-meson-builder`
+1. Execute `code --install-extension onethinx.cortex-meson-builder`
 1. Wait for all extensions to install
 1. Restart VS Code
 
