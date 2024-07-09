@@ -16,7 +16,7 @@
   ],
   "extensionPack": [ 
     "ms-vscode.cpptools",
-    "onethinx.cortex-debug",
+    "onethinx.cortex-gdb",
     "mrmomo.meson-build",
     "egomobile.vscode-powertools",
     "actboy168.tasks"
